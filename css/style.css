@@ -222,7 +222,7 @@ h6 {
 }
 
 .navbar-header {
-	height: 100px;
+	height: 0px;
 }
 
 .navbar ul.nav a { 
@@ -843,7 +843,7 @@ hr {
 
 /* =Team
 -------------------------------------------------------------- */
-.team { padding: 100px 0 100px 0; }
+.team { padding: 100px 0 50px 0; }
 
 .team img {
 	width: 100%;
